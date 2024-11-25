@@ -128,7 +128,7 @@
 
     <h2>Pagamento via Pix</h2>
     <p>Para efetuar sua aposta, faça o pagamento através do Pix usando a chave abaixo:</p>
-    <p><strong>Chave Pix: 123.456.789-00</strong></p>
+    <p><strong>Chave Pix: 047.112.933-02</strong></p>
     <p>Após o pagamento, envie o comprovante para confirmar sua aposta.</p>
 
 </div>
