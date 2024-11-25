@@ -4,63 +4,138 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SportGold - Apostas Futebol Brasileiro</title>
-    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            background-color: #FFCC00; /* Cor amarela de fundo */
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #FF9900;
+            text-align: center;
+            padding: 20px 0;
+        }
+        header h1 {
+            color: white;
+            font-size: 3em;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+        }
+        .game-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        .game-table, .game-table th, .game-table td {
+            border: 1px solid #333;
+        }
+        .game-table th, .game-table td {
+            padding: 10px;
+            text-align: center;
+        }
+        .team-logo {
+            width: 50px;
+            height: 50px;
+        }
+        .bet-table {
+            width: 100%;
+            margin-top: 30px;
+            border-collapse: collapse;
+        }
+        .bet-table th, .bet-table td {
+            padding: 10px;
+            border: 1px solid #333;
+        }
+        .bet-table th {
+            background-color: #FF9900;
+        }
+        .footer {
+            background-color: #FF9900;
+            text-align: center;
+            padding: 20px 0;
+            margin-top: 40px;
+        }
+    </style>
 </head>
 <body>
-    <header>
-        <div class="logo">
-            <h1>SportGold</h1>
-        </div>
-    </header>
 
-    <section class="placar">
-        <h2>Placar dos Jogos de Futebol Brasileiro</h2>
-        <div class="tabela">
-            <table>
-                <thead>
-                    <tr>
-                        <th>Data</th>
-                        <th>Hora</th>
-                        <th>Time 1</th>
-                        <th>Placar</th>
-                        <th>Time 2</th>
-                        <th>Prêmio</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td>25/11/2024</td>
-                        <td>16:00</td>
-                        <td><img src="images/bragantino.png" alt="Bragantino" class="brasao">Bragantino</td>
-                        <td>2 x 1</td>
-                        <td><img src="images/flamengo.png" alt="Flamengo" class="brasao">Flamengo</td>
-                        <td>R$ 50,00</td>
-                    </tr>
-                    <tr>
-                        <td>25/11/2024</td>
-                        <td>18:30</td>
-                        <td><img src="images/vasco.png" alt="Vasco" class="brasao">Vasco</td>
-                        <td>1 x 2</td>
-                        <td><img src="images/sao_paulo.png" alt="São Paulo" class="brasao">São Paulo</td>
-                        <td>R$ 75,00</td>
-                    </tr>
-                    <!-- Adicionar mais jogos aqui -->
-                </tbody>
-            </table>
-        </div>
-    </section>
+<header>
+    <h1>SportGold - Apostas Futebol Brasileiro</h1>
+</header>
 
-    <section class="pix">
-        <h2>Faça sua Aposta com Pix</h2>
-        <p>Para realizar sua aposta, faça um pagamento através do nosso Pix com o valor da aposta. O valor do prêmio será calculado automaticamente.</p>
-        <div class="pix-info">
-            <h3>Chave Pix: 1234567890@pix.com.br</h3>
-            <p>Envie o valor da aposta entre R$ 10,00 e R$ 100,00 para a chave acima.</p>
-        </div>
-    </section>
+<div class="container">
 
-    <footer>
-        <p>&copy; 2024 SportGold. Todos os direitos reservados.</p>
-    </footer>
+    <h2>Partidas desta semana</h2>
+    <table class="game-table">
+        <thead>
+            <tr>
+                <th>Time 1</th>
+                <th>Placar</th>
+                <th>Time 2</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><img src="time1_logo.png" alt="Time 1" class="team-logo"> Time 1</td>
+                <td><input type="number" placeholder="Placar Time 1" style="width: 40px;"> - <input type="number" placeholder="Placar Time 2" style="width: 40px;"></td>
+                <td><img src="time2_logo.png" alt="Time 2" class="team-logo"> Time 2</td>
+            </tr>
+            <!-- Adicione outras partidas aqui -->
+        </tbody>
+    </table>
+
+    <h2>Escolha seu placar</h2>
+    <table class="bet-table">
+        <thead>
+            <tr>
+                <th>Placar</th>
+                <th>Valor da Aposta (em R$)</th>
+                <th>Apostar</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>0 a 0</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>1 a 0</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>1 a 1</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>2 a 1</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>2 a 2</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <!-- Continue adicionando outros placares -->
+        </tbody>
+    </table>
+
+    <h2>Pagamento via Pix</h2>
+    <p>Para efetuar sua aposta, faça o pagamento através do Pix usando a chave abaixo:</p>
+    <p><strong>Chave Pix: 123.456.789-00</strong></p>
+    <p>Após o pagamento, envie o comprovante para confirmar sua aposta.</p>
+
+</div>
+
+<footer class="footer">
+    <p>&copy; 2024 SportGold - Todos os direitos reservados.</p>
+</footer>
+
 </body>
 </html>
