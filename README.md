@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -96,30 +96,99 @@
                 <th>Apostar</th>
             </tr>
         </thead>
-        <tbody>
+    <h2>horários de jogo hoje<h2>
+    <table class="bet-table">
+        <thead>
             <tr>
-                <td>0 a 0</td>
+                <th>horário (as 9:30 da noite)</th>
+                <th>Data (26/11/2024)</th>
+                <th>Rodada (36a)</th>
+            </tr>
+        </thead>
+     <tbody>
+            <tr>
+                <td>Palmeiras 1 x 0 Botafogo</td>
                 <td><input type="text" placeholder="Valor em R$"></td>
                 <td><button>Apostar</button></td>
             </tr>
             <tr>
-                <td>1 a 0</td>
+                <td>Palmeiras 2 x 1 Botafogo</td>
                 <td><input type="text" placeholder="Valor em R$"></td>
                 <td><button>Apostar</button></td>
             </tr>
             <tr>
-                <td>1 a 1</td>
+                <td>Palmeiras 3 x 1 Botafogo</td>
                 <td><input type="text" placeholder="Valor em R$"></td>
                 <td><button>Apostar</button></td>
             </tr>
             <tr>
-                <td>2 a 1</td>
+                <td>Palmeiras 4 x 1 Botafogo</td>
                 <td><input type="text" placeholder="Valor em R$"></td>
                 <td><button>Apostar</button></td>
             </tr>
             <tr>
-                <td>2 a 2</td>
+                <td>Palmeiras 5 x 1 Botafogo</td>
                 <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Palmeiras 6 x 1 Botafogo</td>
+                <td><input type="text" placeholder="valor em R$></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Palmeiras 7 x 1 Botafogo</td>
+                <td><input type="text" placeholder="valor em R$></td>
+                <td><button>Apostar</button></td>
+            </tr>   
+            <tr>
+                <td>Palmeiras 8 x 1 Botafogo</td>
+                <td><input type="text" placeholder="valor em R$></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Botafogo 0 x 0 Palmeiras</td>
+                <td><input type="text" placeholder="valor em R$></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Palmeiras 1 x 1 Botafogo</td>
+                <td><input type="text" placeholder=valor em R$></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Botafogo 2 x 2 Palmeiras</td>
+                <td><input type="text" placeholder=valor em R$></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Palmeiras 3 x 3 Botafogo</td>
+                <td><input type="text" placeholder=valor em R$></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Botafogo 4 x 4 Palmeiras</td>
+                <td><input type="text" placeholder=valor em R$></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Botafogo 1 x 0 Palmeiras</td>
+                <td><input type="text" placeholder=valor em R$></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Botafogo 2 x 1 Palmeiras</td>
+                <td><input type="text" placeholder=valor em R$></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Botafogo 3 x 1 Palmeiras</td>
+                <td><input type="text" placeholder=valor em R$</td>
+                <ts><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Botafogo 4 x 1 Palmeiras</td>
+                <td><input type="text" placeholder=valor em R$</td>
                 <td><button>Apostar</button></td>
             </tr>
             <!-- Continue adicionando outros placares -->
@@ -130,6 +199,8 @@
     <p>Para efetuar sua aposta, faça o pagamento através do Pix usando a chave abaixo:</p>
     <p><strong>Chave Pix: 047.112.933-02</strong></p>
     <p>Após o pagamento, envie o comprovante para confirmar sua aposta.</p>
+    <p>Digite na tabela acima o placar escolhido,e o valor que deseja apostar.<p>
+    <p>O valor do dinheiro que ganhará será 10× o valor apostado para qualquer placar escolhido.<p>
 
 </div>
 
