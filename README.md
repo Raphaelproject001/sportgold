@@ -100,11 +100,23 @@
     <table class="bet-table">
         <thead>
             <tr>
-                <th>horário (as 9:30 da noite)</th>
+                <th>horário (as 7:00 da noite haverão dois jogos, Fluminense x Criciúma, Fortaleza x Flamengo)</th>
+                <th>Data (26/11/2024)</th>
+                <th>Rodada (35a)</th>
+            </tr>
+        </thead>
+     <h2>horários de jogo hoje<h2>
+    <table class="bet-table">
+        <thead>
+            <tr>
+                <th>horário (as 9:30 da noite jogarão Palmeiras x Botafogo, Atletico MG x Juventude)</th>
                 <th>Data (26/11/2024)</th>
                 <th>Rodada (36a)</th>
             </tr>
-        </thead>
+        </thead>  
+      <h2>horários de jogo hoje<h2>
+     <table class="bet-table">
+        <thead>  
      <tbody>
             <tr>
                 <td>Palmeiras 1 x 0 Botafogo</td>
@@ -208,6 +220,321 @@
             </tr>
             <tr>
                 <td>Botafogo 8 x 1 Palmeiras</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético MG 1 x 0 Juventude</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético MG 2 x 1 Juventude</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético MG 3 x 1 Juventude</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético MG 4 x 1 Juventude</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético MG 5 x 1 Juventude</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético MG 6 x 1 Juventude</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético MG 7 x 1 Juventude</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>   
+            <tr>
+                <td>Atlético MG 8 x 1 Juventude</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético MG 0 x 0 Juventude</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Juventude 1 x 1 Atlético MG</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético MG 2 x 2 Juventude</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Juventude 3 x 3 Atlético MG</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético MG 4 x 4 Juventude</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Juventude 1 x 0 Atlético MG</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Juventude 2 x 1 Atlético MG</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Juventude 3 x 1 Atlético MG</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Juventude 4 x 1 Atlético MG</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Juventude 5 x 1 Atlético MG</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Juventude 6 x 1 Atlético MG</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Juventude 7 x 1 Atlético MG</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Juventude 8 x 1 Atlético MG</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Fluminense 1 x 0 Criciúma</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Fluminense 2 x 1 Criciúma</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Fluminense 3 x 1 Criciúma</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Fluminense 4 x 1 Criciúma</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Fluminense 5 x 1 Criciúma/td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Fluminense 6 x 1 Criciúma</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Fluminense 7 x 1 Criciúma</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>   
+            <tr>
+                <td>Fluminense 8 x 1 Criciúma</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Criciúma 0 x 0 Fluminense</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Fluminense 1 x 1 Criciúma</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Criciúma 2 x 2 Fluminense</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Fluminense 3 x 3 Criciúma</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Criciúma 4 x 4 Fluminense</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Criciúma 1 x 0 Fluminense</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Criciúma 2 x 1 Fluminense</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Criciúma 3 x 1 Fluminense</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Criciúma 4 x 1 Fluminense</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Criciúma 5 x 1 Fluminense</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Criciúma 6 x 1 Fluminense</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Criciúma 7 x 1 Fluminense</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Criciúma 8 x 1 Fluminense</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Fortaleza 1 x 0 Flamengo</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Fortaleza 2 x 1 Flamengo</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Fortaleza 3 x 1 Flamengo</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Fortaleza 4 x 1 Flamengo</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Fortaleza 5 x 1 Flamengo</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Fortaleza 6 x 1 Flamengo</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Fortaleza 7 x 1 Flamengo</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>   
+            <tr>
+                <td>Fortaleza 8 x 1 Flamengo</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Flamengo 0 x 0 Fortaleza</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Fortaleza 1 x 1 Flamengo</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Flamengo 2 x 2 Fortaleza</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Fortaleza 3 x 3 Flamengo</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Flamengo 4 x 4 Fortaleza</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Flamengo 1 x 0 Fortaleza</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Flamengo 2 x 1 Fortaleza</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Flamengo 3 x 1 Fortaleza</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Flamengo 4 x 1 Fortaleza</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Flamengo 5 x 1 Fortaleza</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Flamengo 6 x 1 Fortaleza</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Flamengo 7 x 1 Fortaleza</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Flamengo 8 x 1 Fortaleza</td>
                 <td><input type="text" placeholder="valor em R$"></td>
                 <td><button>Apostar</button></td>
             </tr>
