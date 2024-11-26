@@ -133,62 +133,82 @@
             </tr>
             <tr>
                 <td>Palmeiras 6 x 1 Botafogo</td>
-                <td><input type="text" placeholder="valor em R$></td>
+                <td><input type="text" placeholder="valor em R$"></td>
                 <td><button>Apostar</button></td>
             </tr>
             <tr>
                 <td>Palmeiras 7 x 1 Botafogo</td>
-                <td><input type="text" placeholder="valor em R$></td>
+                <td><input type="text" placeholder="valor em R$"></td>
                 <td><button>Apostar</button></td>
             </tr>   
             <tr>
                 <td>Palmeiras 8 x 1 Botafogo</td>
-                <td><input type="text" placeholder="valor em R$></td>
+                <td><input type="text" placeholder="valor em R$"></td>
                 <td><button>Apostar</button></td>
             </tr>
             <tr>
                 <td>Botafogo 0 x 0 Palmeiras</td>
-                <td><input type="text" placeholder="valor em R$></td>
+                <td><input type="text" placeholder="valor em R$"></td>
                 <td><button>Apostar</button></td>
             </tr>
             <tr>
                 <td>Palmeiras 1 x 1 Botafogo</td>
-                <td><input type="text" placeholder=valor em R$></td>
+                <td><input type="text" placeholder="valor em R$"></td>
                 <td><button>Apostar</button></td>
             </tr>
             <tr>
                 <td>Botafogo 2 x 2 Palmeiras</td>
-                <td><input type="text" placeholder=valor em R$></td>
+                <td><input type="text" placeholder="valor em R$"></td>
                 <td><button>Apostar</button></td>
             </tr>
             <tr>
                 <td>Palmeiras 3 x 3 Botafogo</td>
-                <td><input type="text" placeholder=valor em R$></td>
+                <td><input type="text" placeholder="valor em R$"></td>
                 <td><button>Apostar</button></td>
             </tr>
             <tr>
                 <td>Botafogo 4 x 4 Palmeiras</td>
-                <td><input type="text" placeholder=valor em R$></td>
+                <td><input type="text" placeholder="valor em R$"></td>
                 <td><button>Apostar</button></td>
             </tr>
             <tr>
                 <td>Botafogo 1 x 0 Palmeiras</td>
-                <td><input type="text" placeholder=valor em R$></td>
+                <td><input type="text" placeholder="valor em R$"></td>
                 <td><button>Apostar</button></td>
             </tr>
             <tr>
                 <td>Botafogo 2 x 1 Palmeiras</td>
-                <td><input type="text" placeholder=valor em R$></td>
+                <td><input type="text" placeholder="valor em R$"></td>
                 <td><button>Apostar</button></td>
             </tr>
             <tr>
                 <td>Botafogo 3 x 1 Palmeiras</td>
-                <td><input type="text" placeholder=valor em R$</td>
-                <ts><button>Apostar</button></td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
             </tr>
             <tr>
                 <td>Botafogo 4 x 1 Palmeiras</td>
-                <td><input type="text" placeholder=valor em R$</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Botafogo 5 x 1 Palmeiras</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Botafogo 6 x 1 Palmeiras</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Botafogo 7 x 1 Palmeiras</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Botafogo 8 x 1 Palmeiras</td>
+                <td><input type="text" placeholder="valor em R$"></td>
                 <td><button>Apostar</button></td>
             </tr>
             <!-- Continue adicionando outros placares -->
