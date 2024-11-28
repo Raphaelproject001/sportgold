@@ -122,7 +122,7 @@
         <thead>  
      <tbody>
             <tr>
-                <td>Cuiaba_EC.svg Cuiabá 1 x 0 Bahia</td>
+                <td>Cuiabá 1 x 0 Bahia</td>
                 <td><input type="text" placeholder="Valor em R$"></td>
                 <td><button>Apostar</button></td>
             </tr>
