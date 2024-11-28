@@ -62,6 +62,33 @@
 </head>
 <body>
 
+
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brasões de Futebol Brasileiro</title>
+    <style>
+        .brasao {
+            width: 100px; /* Tamanho da imagem */
+            height: 100px;
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Brasões dos Clubes Brasileiros</h1>
+    
+    <!-- Exemplo de Exibição de Brasões -->
+    <img src="images/brasao-flamengo.png" alt="Flamengo" class="brasao">
+    <img src="images/brasao-palmeiras.png" alt="Palmeiras" class="brasao">
+    <img src="images/brasao-sao-paulo.png" alt="São Paulo" class="brasao">
+    <img src="images/brasao-corinthians.png" alt="Corinthians" class="brasao">
+    <!-- Adicione mais imagens conforme necessário -->
+    
+</body>
+</html>
+
 <header>
     <h1>SportGold - Apostas Futebol Brasileiro</h1>
 </header>
