@@ -58,17 +58,6 @@
             padding: 20px 0;
             margin-top: 40px;
         }
-    </style>
-</head>
-<body>
-
-
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Brasões de Futebol Brasileiro</title>
-    <style>
         .brasao {
             width: 100px; /* Tamanho da imagem */
             height: 100px;
