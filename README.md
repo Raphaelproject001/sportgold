@@ -143,6 +143,41 @@
                 <td><button>Apostar</button></td>
             </tr>
             <tr>
+                <td>Cuiabá 2 x 0 Bahia</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Cuiabá 3 x 0 Bahia</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Cuiabá 4 x 0 Bahia</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Cuiabá 5 x 0 Bahia</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Cuiabá 6 x 0 Bahia</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Cuiabá 7 x 0 Bahia</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>   
+            <tr>
+                <td>Cuiabá 8 x 0 Bahia</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
                 <td>Cuiabá 2 x 1 Bahia</td>
                 <td><input type="text" placeholder="Valor em R$"></td>
                 <td><button>Apostar</button></td>
@@ -178,6 +213,111 @@
                 <td><button>Apostar</button></td>
             </tr>
             <tr>
+                <td>Cuiabá 3 x 2 Bahia</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Cuiabá 4 x 2 Bahia</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Cuiabá 5 x 2 Bahia</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Cuiabá 6 x 2 Bahia</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Cuiabá 7 x 2 Bahia</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>   
+            <tr>
+                <td>Cuiabá 8 x 2 Bahia</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Cuiabá 4 x 3 Bahia</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Cuiabá 5 x 3 Bahia</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Cuiabá 6 x 3 Bahia</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Cuiabá 7 x 3 Bahia</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>   
+            <tr>
+                <td>Cuiabá 8 x 3 Bahia</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Cuiabá 5 x 4 Bahia</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Cuiabá 6 x 4 Bahia</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Cuiabá 7 x 4 Bahia</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>   
+            <tr>
+                <td>Cuiabá 8 x 4 Bahia</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Cuiabá 6 x 5 Bahia</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Cuiabá 7 x 5 Bahia</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>   
+            <tr>
+                <td>Cuiabá 8 x 5 Bahia</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Cuiabá 7 x 6 Bahia</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>   
+            <tr>
+                <td>Cuiabá 8 x 6 Bahia</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Cuiabá 8 x 7 Bahia</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
                 <td>Bahia 0 x 0 Cuiabá</td>
                 <td><input type="text" placeholder="valor em R$"></td>
                 <td><button>Apostar</button></td>
@@ -203,7 +343,62 @@
                 <td><button>Apostar</button></td>
             </tr>
             <tr>
+                <td>Cuiabá 5 x 5 Bahia</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Bahia 6 x 6 Cuiabá</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Cuiabá 7 x 7 Bahia</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Bahia 8 x 8 Cuiabá</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
                 <td>Bahia 1 x 0 Cuiabá</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Bahia 2 x 0 Cuiabá</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Bahia 3 x 0 Cuiabá</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Bahia 4 x 0 Cuiabá</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Bahia 5 x 0 Cuiabá</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Bahia 6 x 0 Cuiabá</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Bahia 7 x 0 Cuiabá</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Bahia 8 x 0 Cuiabá</td>
                 <td><input type="text" placeholder="valor em R$"></td>
                 <td><button>Apostar</button></td>
             </tr>
@@ -243,8 +438,148 @@
                 <td><button>Apostar</button></td>
             </tr>
             <tr>
+                <td>Bahia 3 x 2 Cuiabá</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Bahia 4 x 2 Cuiabá</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Bahia 5 x 2 Cuiabá</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Bahia 6 x 2 Cuiabá</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Bahia 7 x 2 Cuiabá</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Bahia 8 x 2 Cuiabá</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Bahia 4 x 3 Cuiabá</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Bahia 5 x 3 Cuiabá</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Bahia 6 x 3 Cuiabá</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Bahia 7 x 3 Cuiabá</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Bahia 8 x 3 Cuiabá</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Bahia 5 x 4 Cuiabá</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Bahia 6 x 4 Cuiabá</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Bahia 7 x 4 Cuiabá</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Bahia 8 x 4 Cuiabá</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Bahia 6 x 5 Cuiabá</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Bahia 7 x 5 Cuiabá</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Bahia 8 x 5 Cuiabá</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Bahia 7 x 6 Cuiabá</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Bahia 8 x 6 Cuiabá</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Bahia 8 x 7 Cuiabá</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
                 <td>Criciúma 1 x 0 Corinthians</td>
                 <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Criciúma 2 x 0 Corinthians</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Criciúma 3 x 0 Corinthians</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Criciúma 4 x 0 Corinthians</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Criciúma 5 x 0 Corinthians</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Criciúma 6 x 0 Corinthians</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Criciúma 7 x 0 Corinthians</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>   
+            <tr>
+                <td>Criciúma 8 x 0 Corinthians</td>
+                <td><input type="text" placeholder="valor em R$"></td>
                 <td><button>Apostar</button></td>
             </tr>
             <tr>
@@ -282,6 +617,111 @@
                 <td><input type="text" placeholder="valor em R$"></td>
                 <td><button>Apostar</button></td>
             </tr>
+             <tr>
+                <td>Criciúma 3 x 2 Corinthians</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Criciúma 4 x 2 Corinthians</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Criciúma 5 x 2 Corinthians</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Criciúma 6 x 2 Corinthians</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Criciúma 7 x 2 Corinthians</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>   
+            <tr>
+                <td>Criciúma 8 x 2 Corinthians</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Criciúma 4 x 3 Corinthians</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Criciúma 5 x 3 Corinthians</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Criciúma 6 x 3 Corinthians</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Criciúma 7 x 3 Corinthians</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>   
+            <tr>
+                <td>Criciúma 8 x 3 Corinthians</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Criciúma 5 x 4 Corinthians</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Criciúma 6 x 4 Corinthians</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Criciúma 7 x 4 Corinthians</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>   
+            <tr>
+                <td>Criciúma 8 x 4 Corinthians</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Criciúma 6 x 5 Corinthians</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Criciúma 7 x 5 Corinthians</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>   
+            <tr>
+                <td>Criciúma 8 x 5 Corinthians</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Criciúma 7 x 6 Corinthians</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>   
+            <tr>
+                <td>Criciúma 8 x 6 Corinthians</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Criciúma 8 x 7 Corinthians</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
             <tr>
                 <td>Corinthians 0 x 0 Criciúma</td>
                 <td><input type="text" placeholder="valor em R$"></td>
@@ -308,7 +748,62 @@
                 <td><button>Apostar</button></td>
             </tr>
             <tr>
+                <td>Criciúma 5 x 5 Corinthians</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Corinthians 6 x 6 Criciúma</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Criciúma 7 x 7 Corinthians</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Corinthians 8 x 8 Criciúma</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
                 <td>Corinthians 1 x 0 Criciúma</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Corinthians 2 x 0 Criciúma</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Corinthians 3 x 0 Criciúma</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Corinthians 4 x 0 Criciúma</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Corinthians 5 x 0 Criciúma</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Corinthians 6 x 0 Criciúma</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Corinthians 7 x 0 Criciúma</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Corinthians 8 x 0 Criciúma</td>
                 <td><input type="text" placeholder="valor em R$"></td>
                 <td><button>Apostar</button></td>
             </tr>
@@ -348,8 +843,148 @@
                 <td><button>Apostar</button></td>
             </tr>
             <tr>
+                <td>Corinthians 3 x 2 Criciúma</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Corinthians 4 x 2 Criciúma</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Corinthians 5 x 2 Criciúma</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Corinthians 6 x 2 Criciúma</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Corinthians 7 x 2 Criciúma</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Corinthians 8 x 2 Criciúma</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Corinthians 4 x 3 Criciúma</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Corinthians 5 x 3 Criciúma</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Corinthians 6 x 3 Criciúma</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Corinthians 7 x 3 Criciúma</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Corinthians 8 x 3 Criciúma</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Corinthians 5 x 4 Criciúma</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Corinthians 6 x 4 Criciúma</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Corinthians 7 x 4 Criciúma</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Corinthians 8 x 4 Criciúma</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Corinthians 6 x 5 Criciúma</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Corinthians 7 x 5 Criciúma</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Corinthians 8 x 5 Criciúma</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Corinthians 7 x 6 Criciúma</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Corinthians 8 x 6 Criciúma</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Corinthians 8 x 7 Criciúma</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
                 <td>Vasco 1 x 0 Atlético GO</td>
                 <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Vasco 2 x 0 Atlético GO</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Vasco 3 x 0 Atlético GO</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Vasco 4 x 0 Atlético GO</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Vasco 5 x 0 Atlético GO</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Vasco 6 x 0 Atlético GO</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Vasco 7 x 0 Atlético GO</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>   
+            <tr>
+                <td>Vasco 8 x 0 Atlético GO</td>
+                <td><input type="text" placeholder="valor em R$"></td>
                 <td><button>Apostar</button></td>
             </tr>
             <tr>
@@ -388,6 +1023,111 @@
                 <td><button>Apostar</button></td>
             </tr>
             <tr>
+                <td>Vasco 3 x 2 Atlético GO</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Vasco 4 x 2 Atlético GO</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Vasco 5 x 2 Atlético GO</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Vasco 6 x 2 Atlético GO</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Vasco 7 x 2 Atlético GO</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>   
+            <tr>
+                <td>Vasco 8 x 2 Atlético GO</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Vasco 4 x 3 Atlético GO</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Vasco 5 x 3 Atlético GO</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Vasco 6 x 3 Atlético GO</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Vasco 7 x 3 Atlético GO</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>   
+            <tr>
+                <td>Vasco 8 x 3 Atlético GO</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Vasco 5 x 4 Atlético GO</td>
+                <td><input type="text" placeholder="Valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Vasco 6 x 4 Atlético GO</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Vasco 7 x 4 Atlético GO</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>   
+            <tr>
+                <td>Vasco 8 x 4 Atlético GO</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Vasco 6 x 5 Atlético GO</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Vasco 7 x 5 Atlético GO</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>   
+            <tr>
+                <td>Vasco 8 x 5 Atlético GO</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Vasco 7 x 6 Atlético GO</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>   
+            <tr>
+                <td>Vasco 8 x 6 Atlético GO</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Vasco 8 x 7 Atlético GO</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
                 <td>Vasco 0 x 0 Atlético GO</td>
                 <td><input type="text" placeholder="valor em R$"></td>
                 <td><button>Apostar</button></td>
@@ -413,7 +1153,62 @@
                 <td><button>Apostar</button></td>
             </tr>
             <tr>
+                <td>Atlético  GO 5 x 5 Vasco</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Vasco 6 x 6 Atlético GO</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético  GO 7 x 7 Vasco</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Vasco 8 x 8 Atlético GO</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
                 <td>Atlético GO 1 x 0 Vasco</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético GO 2 x 0 Vasco</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético GO 3 x 0 Vasco</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético GO 4 x 0 Vasco</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético GO 5 x 0 Vasco</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético GO 6 x 0 Vasco</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético GO 7 x 0 Vasco</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético GO 8 x 0 Vasco</td>
                 <td><input type="text" placeholder="valor em R$"></td>
                 <td><button>Apostar</button></td>
             </tr>
@@ -449,6 +1244,111 @@
             </tr>
             <tr>
                 <td>Atlético GO 8 x 1 Vasco</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético GO 3 x 2 Vasco</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético GO 4 x 2 Vasco</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético GO 5 x 2 Vasco</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético GO 6 x 2 Vasco</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético GO 7 x 2 Vasco</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético GO 8 x 2 Vasco</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético GO 4 x 3 Vasco</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético GO 5 x 3 Vasco</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético GO 6 x 3 Vasco</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético GO 7 x 3 Vasco</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético GO 8 x 3 Vasco</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético GO 5 x 4 Vasco</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético GO 6 x 4 Vasco</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético GO 7 x 4 Vasco</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético GO 8 x 4 Vasco</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético GO 6 x 5 Vasco</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético GO 7 x 5 Vasco</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético GO 8 x 5 Vasco</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético GO 7 x 6 Vasco</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético GO 8 x 6 Vasco</td>
+                <td><input type="text" placeholder="valor em R$"></td>
+                <td><button>Apostar</button></td>
+            </tr>
+            <tr>
+                <td>Atlético GO 8 x 7 Vasco</td>
                 <td><input type="text" placeholder="valor em R$"></td>
                 <td><button>Apostar</button></td>
             </tr>
