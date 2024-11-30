@@ -112,7 +112,7 @@
                 <th>Apostar</th>
             </tr>
         </thead>
-    <h2>horários de jogo de amanhã.<h2>
+    <h2>Realize suas apostas até amanhã antes do iniciar os jogos.<h2>
     <table class="bet-table">
         <thead>
             <tr>
