@@ -1361,7 +1361,7 @@
     <h2>Pagamento via Pix</h2>
     <p>Para efetuar sua aposta, faça o pagamento através do Pix usando a chave abaixo:</p>
     <p><strong>Chave Pix: 047.112.933-02</strong></p>
-    <p>Após o pagamento, envie o comprovante para confirmar sua aposta.</p>
+    <p>Após o pagamento, envie o comprovante para Whatsapp 55 (88) 98188-5590 assim, confirmará sua aposta.</p>
     <p>Digite na tabela acima o placar escolhido,e o valor que deseja apostar.<p>
     <p>O valor do dinheiro que ganhará será 10× o valor apostado para qualquer placar escolhido.<p>
     <p>No entanto, se a Plataforma de apostas não alcançar o valor igual, ou acima do valor do prêmio dos ganhadore/ganhadora(s) será realizado a devolução do dinheiro de cada um dos apostadores, de acordo com o (CDC) Código do Consumidor:lei 8.078/90 paragrafo I,II,III e IV.
