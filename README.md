@@ -112,28 +112,30 @@
                 <th>Apostar</th>
             </tr>
         </thead>
-    <h2>horários de jogo de sábado e domingo.<h2>
+    <h2>horários de jogo de amanhã.<h2>
     <table class="bet-table">
         <thead>
             <tr>
                 <th>horário (as 19:30 da noite haverão dois jogos, Cuiabá x Bahia, Criciúma x Corinthians.)</th>
                 <th>Data (30/11/2024)</th>
                 <th>Local de jogo entre Cuiabá x Bahia, será na Arena Pantanal.</th>
+                <th>Haverão 2 jogos amanhã as 19:30 da noite.</th>
                 <th>Local de jogo entre Criciúma e Corinthians, será no Heriberto Hülse</th>
                 <th>Rodada (36a)</th>
             </tr>
         </thead>
-     <h2>horários de jogo de sábado e domingo.<h2>
+     <h2>horários de jogo de amanhã.<h2>
     <table class="bet-table">
         <thead>
             <tr>
                 <th>horário (as 21:30 da noite jogará Vasco x Atlético GO.)</th>
                 <th>Data (30/11/2024)</th>
+                <th>Haverá 1 jogo amanhã as 21:30 da noite.</th>
                 <th>Local de jogo entre Vasco x Atlético GO será em São Januário.</th>
                 <th>Rodada (36a)</th>
             </tr>
         </thead>  
-      <h2>horários de jogo de sábado e domingo.<h2>
+      <h2>horários de jogo de amanhã.<h2>
      <table class="bet-table">
         <thead>  
      <tbody>
