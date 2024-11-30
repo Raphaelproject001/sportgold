@@ -1363,7 +1363,7 @@
     <p>Após o pagamento, envie o comprovante para confirmar sua aposta.</p>
     <p>Digite na tabela acima o placar escolhido,e o valor que deseja apostar.<p>
     <p>O valor do dinheiro que ganhará será 10× o valor apostado para qualquer placar escolhido.<p>
-
+    <p>No entanto, se a Plataforma de apostas não alcançar o valor igual, ou acima do valor do prêmio dos ganhadore/ganhadora(s) será realizado a devolução do dinheiro de cada um dos apostadores, de acordo com o (CDC) Código do Consumidor:lei 8.078/90 paragrafo I,II,III e IV.
 </div>
 
 <footer class="footer">
