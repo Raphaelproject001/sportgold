@@ -1,0 +1,6 @@
+meu-projeto/
+│
+├── index.html       # Arquivo HTML principal
+├── css/             # Pasta para arquivos CSS
+│   └── estilo.css   # Arquivo de estilos CSS
+└── README.md        # Documento de explicação do projeto
