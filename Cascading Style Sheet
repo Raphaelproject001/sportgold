@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#formularioAposta.mostrar {
+    display: block;
+}
+
+#formularioAposta {
+    display: none;
+    margin-top: 20px;
+}
+
+form input {
+    margin: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #008CBA;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #005f73;
+}
