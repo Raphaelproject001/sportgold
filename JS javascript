@@ -1,0 +1,54 @@
+document.addEventListener('DOMContentLoaded', function () {
+
+    // 1. Interatividade - Exemplo de abrir e fechar um formulário
+    const btnAbrirFormulario = document.querySelector("#abrirFormulario");
+    const formularioAposta = document.querySelector("#formularioAposta");
+    
+    btnAbrirFormulario.addEventListener('click', () => {
+        formularioAposta.classList.toggle("mostrar"); // Mostra ou esconde o formulário
+    });
+
+    // 2. Contador de tempo para apostas
+    let tempoRestante = 300; // 5 minutos em segundos
+    const contagemTempo = document.querySelector("#contadorTempo");
+
+    const atualizarContagem = () => {
+        const minutos = Math.floor(tempoRestante / 60);
+        const segundos = tempoRestante % 60;
+        contagemTempo.innerHTML = `${minutos}:${segundos < 10 ? '0' + segundos : segundos}`;
+
+        if (tempoRestante === 0) {
+            clearInterval(intervalo); // Parar o contador
+            alert("O tempo de aposta acabou!");
+        }
+        tempoRestante--;
+    };
+
+    const intervalo = setInterval(atualizarContagem, 1000);
+
+    // 3. Resultados em tempo real (simulação)
+    const resultados = document.querySelector("#resultados");
+
+    const atualizarResultados = () => {
+        // Simulando a atualização de resultados, você pode substituir por uma API real
+        resultados.innerHTML = "Novo Resultado: " + Math.floor(Math.random() * 100);
+    };
+
+    setInterval(atualizarResultados, 5000); // Atualiza a cada 5 segundos
+
+    // 4. Validação do Formulário de Apostas
+    const formulario = document.querySelector("#formularioAposta");
+    const inputAposta = document.querySelector("#inputAposta");
+
+    formulario.addEventListener('submit', function (event) {
+        event.preventDefault(); // Previne o envio do formulário
+
+        // Validação simples: verificar se o campo da aposta foi preenchido
+        if (!inputAposta.value || isNaN(inputAposta.value)) {
+            alert("Por favor, insira um valor válido para a aposta.");
+            return;
+        }
+
+        alert(`Aposta de R$${inputAposta.value} registrada com sucesso!`);
+    });
+});
