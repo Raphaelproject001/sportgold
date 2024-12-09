@@ -1,0 +1,46 @@
+// URL da API (Exemplo: API fictícia de resultados de futebol)
+const apiUrl = 'https://api.exemplo.com/resultados'; // Substitua pela URL real da sua API
+
+// Função para obter os dados da API e exibir na página
+function carregarResultados() {
+    fetch(apiUrl)
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Erro na requisição da API');
+            }
+            return response.json();
+        })
+        .then(data => {
+            exibirResultados(data);
+        })
+        .catch(error => {
+            console.error('Erro ao carregar dados:', error);
+        });
+}
+
+// Função para exibir os resultados no HTML
+function exibirResultados(data) {
+    const conteudoJogos = document.getElementById('conteudo-jogos');
+    conteudoJogos.innerHTML = ''; // Limpar resultados anteriores
+
+    data.jogos.forEach(jogo => {
+        const jogoDiv = document.createElement('div');
+        jogoDiv.classList.add('jogo');
+
+        const nomeEquipe1 = jogo.equipe1.nome;
+        const nomeEquipe2 = jogo.equipe2.nome;
+        const placarEquipe1 = jogo.equipe1.placar;
+        const placarEquipe2 = jogo.equipe2.placar;
+
+        jogoDiv.innerHTML = `
+            <h3>${nomeEquipe1} vs ${nomeEquipe2}</h3>
+            <p>Placar: ${placarEquipe1} - ${placarEquipe2}</p>
+            <p>Data: ${new Date(jogo.data).toLocaleDateString()}</p>
+        `;
+
+        conteudoJogos.appendChild(jogoDiv);
+    });
+}
+
+// Carregar os resultados ao carregar a página
+window.onload = carregarResultados;
