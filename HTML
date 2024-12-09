@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site de Apostas</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div>
+        <button id="abrirFormulario">Fazer Aposta</button>
+        <div id="formularioAposta" class="formulario" style="display: none;">
+            <form>
+                <label for="inputAposta">Valor da Aposta: R$</label>
+                <input type="text" id="inputAposta" name="inputAposta">
+                <button type="submit">Enviar Aposta</button>
+            </form>
+        </div>
+    </div>
+
+    <div>
+        <h2>Contagem Regressiva:</h2>
+        <p id="contadorTempo">5:00</p>
+    </div>
+
+    <div>
+        <h2>Resultados Recentes:</h2>
+        <p id="resultados">Aguardando resultados...</p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
