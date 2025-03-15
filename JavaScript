@@ -1,0 +1,22 @@
+// 1. Interação com o botão
+document.getElementById("alertButton").addEventListener("click", function() {
+    alert("Você clicou no botão!");
+});
+
+// 2. Animação simples com hover
+document.getElementById("animatedBox").addEventListener("mouseover", function() {
+    this.style.transform = "scale(1.1)";
+});
+document.getElementById("animatedBox").addEventListener("mouseout", function() {
+    this.style.transform = "scale(1)";
+});
+
+// 3. Validação de formulário simples
+document.getElementById("myForm").addEventListener("submit", function(event) {
+    const nameInput = document.getElementById("name").value;
+    
+    if (nameInput === "") {
+        alert("Por favor, preencha seu nome.");
+        event.preventDefault(); // Impede o envio do formulário se o campo estiver vazio
+    }
+});
