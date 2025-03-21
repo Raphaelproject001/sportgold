@@ -66,16 +66,6 @@
     </style>
 </head>
 <body>
-    <h1>Brasões dos Clubes Brasileiros</h1>
-    
-    <!-- Exemplo de Exibição de Brasões -->
-    <img src="images/brasao-flamengo.png" alt="Flamengo" class="brasao">
-    <img src="images/brasao-palmeiras.png" alt="Palmeiras" class="brasao">
-    <img src="images/brasao-sao-paulo.png" alt="São Paulo" class="brasao">
-    <img src="images/brasao-corinthians.png" alt="Corinthians" class="brasao">
-    <!-- Adicione mais imagens conforme necessário -->
-    
-</body>
 
 <header>
     <h1>SportGold - Apostas Futebol Brasileiro</h1>
